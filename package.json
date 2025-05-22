@@ -1,0 +1,22 @@
+{
+  "name": "playwright_api_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MLizano/Playwright_Api_Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MLizano/Playwright_Api_Test/issues"
+  },
+  "homepage": "https://github.com/MLizano/Playwright_Api_Test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.21"
+  }
+}
